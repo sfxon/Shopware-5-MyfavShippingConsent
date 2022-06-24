@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="../../../engine/Shopware/Components/Plugin/schema/plugin.xsd">
+    <label lang="en">Shipping service provider checkbox in checkout</label>
+    <label lang="de">Versanddienstleister-Checkbox im Checkout</label>
+    <version>1.0.0</version>
+    <copyright>(c) by Mindfav Software, Steve Krämer</copyright>
+    <link>http://mindfav.com/shopware/plugins/shippingConsent</link>
+    <author>Mindfav, Steve Krämer</author>
+    <changelog version="1.0.0">
+        <changes lang="en">First Release</changes>
+        <changes lang="de">Erstveröffentlichung</changes>
+    </changelog>
+    <description lang="en">
+    	<![CDATA[
+		<h1>Shipping service provider checkbox in checkout</h1>
+		<p>This plugin adds a checkbox to the confirmation page in the checkout (confirm),
+		through which your customers can choose whether personal data should be transmitted to the shipping service provider.
+		A free text field is added to the order in the backend, which shows whether the customer meets this condition
+		has agreed. The field can be optionally selected by the customer, i.e. it is not a mandatory field.</p>
+		]]>
+	</description>
+	<description lang="de">
+		<![CDATA[
+		<h1>Versanddienstleister-Checkbox im Checkout</h1>
+		<p>Dieses Plugin fügt eine Checkbox zur Bestätigungs-Seite im Checkout hinzu,
+		über die Ihre Kunden auswählen können, ob persönliche Daten an den Versanddienstleister übermittelt werden sollen.
+		Bei der Bestellung im Backend wurde ein Freitextfeld hinzugefügt, über welches zu sehen ist, ob der Kunde dieser Bedingung
+		zugestimmt hat. Das Feld ist für den Kunden optional anwählbar, also kein Pflichtfeld.
+		]]>
+    </description>
+    <compatibility minVersion="5.6.9" />
+	<license>proprietary</license>
+</plugin>
