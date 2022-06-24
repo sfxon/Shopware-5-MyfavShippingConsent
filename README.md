@@ -4,7 +4,7 @@
 
 ![](marketing/screenshot-1-german-frontend.jpg)
 
-![](marketing/screenshot-2-german-admin.jpg])
+![](marketing/screenshot-2-german-admin.jpg)
 
 ## Beschreibung
 
