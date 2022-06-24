@@ -2,9 +2,9 @@
 
 (For an english description, please head forward to the englisch section in this document)
 
-[[marketing/screenshot-1-german-frontend.jpg]]
+[[/marketing/screenshot-1-german-frontend.jpg]]
 
-[[marketing/screenshot-2-german-admin.jpg]]
+[[/marketing/screenshot-2-german-admin.jpg]]
 
 ## Beschreibung
 
