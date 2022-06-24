@@ -2,6 +2,10 @@
 
 (For an english description, please head forward to the englisch section in this document)
 
+[[marketing/screenshot-1-german-frontend.jpg]]
+
+[[marketing/screenshot-2-german-admin.jpg]]
+
 ## Beschreibung
 
 Dieses Plugin fügt eine Checkbox zur Bestätigungs-Seite im Checkout hinzu, über das Kunden auswählen können, ob persönliche Daten an den Versanddienstleister übermittelt werden sollen. Bei den Bestellungen im Backend wurde ein Freitextfeld hinzugefügt, über welches zu sehen ist, ob der Kunde dieser Bedingung zugestimmt hat. Das Feld ist für den Kunden optional anwählbar, also kein Pflichtfeld.
